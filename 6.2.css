@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body, .tengah {
+    display: flex;
+}
+
+header {
+    background-color: aqua;
+    width: 950px;
+    height: 200px;
+}
+
+nav {
+    width: 200px;
+    height: 950px;
+    background-color: blue;
+}
+
+aside {
+    width: 200px;
+    height: 550px;
+    background-color: chartreuse;
+}
+
+footer {
+    width: 950px;
+    height: 200px;
+    background-color: cornflowerblue;
+}
+
+article {
+    width: 750px;
+    height: 550px;
+    background-color: darkblue;
+}
+    
